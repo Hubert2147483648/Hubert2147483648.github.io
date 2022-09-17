@@ -1,0 +1,115 @@
+h1{
+	color: rgba(0, 0, 0, 0.6);
+	border-bottom: 1px solid #a9a5a5;
+}
+h3{
+	color: black;
+	font-size: 20px;
+}
+input[type="button" i]{
+	font-size: 20px;
+	width: 33.333333%;
+	height: 3em;
+	color: rgba(0, 0, 0, 0.7);
+	background-color: #4e4fa700;
+	font-size: 14px;
+	outline: none;
+	border: 0;
+	transition: all 0.3s ease;
+}
+input[type="button" i]:hover{
+	color: black;
+	transition: all 0.3s ease;
+}
+.lg-fg-gray {
+	color: #BFBFBF !important;
+}
+.lg-fg-blue {
+	color: #0E90D2 !important;
+}
+.lg-fg-green {
+	color: #5EB95E !important;
+}
+.lg-fg-orange {
+	color: #E67E22 !important;
+}
+.lg-fg-red {
+	color: #E74C3C !important;
+}
+.lg-fg-purple {
+	color: #8E44AD !important;
+}
+.lg-link-blue {
+	color: #3498DB !important;
+}
+.body{
+	padding: 0px;
+	background: rgba(239, 239, 239, 1);
+	background-image: url(https://cn.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_UHD.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.center{
+	text-align: center;
+}
+.title{
+	padding: 0px;
+	border-radius: 5px 5px 5px 5px !important;
+	background-color: #4e4fa7b8;
+	width:1500px;
+	top:0;
+	color: white;
+	position:fixed;
+	display:block;
+	transition: all 0.15s ease;
+}
+.title:hover{
+	box-shadow: 1px 1px 1px #222222;
+	transition: all 0.15s ease;
+}
+.subtitle{
+	padding: 10px;
+	border-radius: 5px 5px 5px 5px !important;
+	background: rgba(255,255,255,1)!important;
+}
+.card{
+	padding: 10px;
+	color:black;
+	background: rgba(255, 255, 255, 0.8)!important;
+	border-radius: 15px 15px 15px 15px !important;
+	transition: all 0.15s ease;
+}
+.card:hover{
+	box-shadow: 1px 1px 1px #222222;
+	transition: all 0.15s ease;
+}
+.toolbar{
+	background: rgba(0,0,0,0);
+	font-size: 0;
+}
+.article{
+	position: relative;
+	left: 10px;
+	padding: 12px;
+	width: 95%;
+	height:auto;
+	background: transparent!important;
+	border-bottom: 1px solid #a9a5a5;
+}
+.article_title{
+	position: relative;
+	left: 10px;
+	padding: 12px;
+	width: 95%;
+	height:auto;
+	display:inline-flex;
+	background: transparent!important;
+}
+.article_content{
+	background: transparent!important;
+}
+.article_foot{
+	font-size: smaller;
+	background: transparent!important;
+}
